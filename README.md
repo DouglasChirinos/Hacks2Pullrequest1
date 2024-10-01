@@ -1,3 +1,2 @@
-Douglas Chirinos
-## Hacks2Pullrequest1
-### hack-pull-request-1
+# Douglas Chirinos
+## hack-pull-request-1
